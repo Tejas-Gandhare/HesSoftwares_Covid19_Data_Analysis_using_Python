@@ -17,11 +17,12 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
 📊 Features
 Data Cleaning and Preprocessing
 Exploratory Data Analysis
 Visualization of Covid-19 trends
 Comparison of confirmed, recovered, and death cases
-🎯 Conclusion
 
+🎯 Conclusion
 The project shows that data visualization and analysis play an important role in understanding real-world problems like pandemics. It provides insights into the spread of Covid-19 and helps in identifying trends that can support better planning and response strategies.
